@@ -159,6 +159,7 @@ body {
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid var(--gold);
+  background-color: var(--gold);
   margin-bottom: 12px;
 }
 .hero-intro { font-size: 13px; color: var(--muted); }
